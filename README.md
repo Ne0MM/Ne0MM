@@ -1,5 +1,5 @@
 ---
-# <p align='center'> 💻 Pablo Tavares // Software enginner (Front-End) 💻 <p> 
+# <p align='center'> 💻 Pablo Tavares // Software enginner 💻 <p> 
 
 ##  <img src='https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg' height='11' width='16'> <img src='https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png'> A little bit about me: <img src='https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png'> <img src='https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg' height='11' width='16'>
   
